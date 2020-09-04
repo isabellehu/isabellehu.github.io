@@ -1,18 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I am a Ph.D. student in [Medical Physics](https://medphys.uchicago.edu) at the University of Chicago, working in the computer-aided diagnosis group directed by [Dr. Maryellen Giger](https://radiology.uchicago.edu/faculty/maryellen-l-giger-phd) . I am passionate about transforming healthcare with technology and using artifical intelligence to accelerate scientific discoveries. My thesis research is focused on developing artifical intelligence methods, including deep learning and conventional radiomics, for clinical decision-making based on medical images. I have worked on breast cancer diagnosis using state-of-the-art multiparametric magnetic resonance imaging. My current project leverages medical images to perform the early detection and prognosis of COVID-19.
-
-Prior to University of Chicago, I graduated with honors from Carleton College, where I double majored in Physics and Mathematics. I had a wide range of undergraduate research experiences, including human and model observer studies for lung cancer screening computed tomography (at Mayo Clinic), low-dimensional electronic devices (at MIT), optical photopolymer (at Carleton), and noise analysis for LIGO gravitational wave detection (at Carleton).
-
-Besides science, I love traveling the world to experience different cultures, going hiking to embrace nature, cooking for family and friends, and reading up on art history.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
