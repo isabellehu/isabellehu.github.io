@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [concise CV/extended resume.](http://isabellehu.github.io/files/industryCV_IsabelleHu_Summer2020.pdf)
+You can find my [CV](http://isabellehu.github.io/files/CV_IsabelleHu_Summer2020.pdf) here.
