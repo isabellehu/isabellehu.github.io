@@ -22,7 +22,7 @@ Peer-reviewed journals
 
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “Radiomics methodology for breast cancer diagnosis using multiparametric magnetic resonance imaging.” <em>Journal of Medical Imaging</em> 7.4 (2020): 044502. <a href="http://dx.doi.org/10.1117/1.JMI.7.4.044502">Link</a></li>
 
-Gong H, <li><strong>Hu Q</strong> , Walther A, Koo CW, Takahashi EA, Levin DL, Johnson TF, Hora MJ, Leng S, Fletcher JG, McCollough CH. “Deep-learning-based model observer for a lung nodule detection task in computed tomography.” <em>Journal of Medical Imaging</em> 7.4 (2020): 042807. <a href="http://dx.doi.org/10.1117/1.JMI.7.4.042807">Link</a></li>
+<li>Gong H, <strong>Hu Q</strong> , Walther A, Koo CW, Takahashi EA, Levin DL, Johnson TF, Hora MJ, Leng S, Fletcher JG, McCollough CH. “Deep-learning-based model observer for a lung nodule detection task in computed tomography.” <em>Journal of Medical Imaging</em> 7.4 (2020): 042807. <a href="http://dx.doi.org/10.1117/1.JMI.7.4.042807">Link</a></li>
 </ol>
 
 Proceeding papers
