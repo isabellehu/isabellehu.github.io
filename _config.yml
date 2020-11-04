@@ -188,10 +188,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   news:
-    defaults:
-      layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /:collection/:path/
 
 news_limit: 5
 
@@ -254,7 +252,7 @@ defaults:
   # _news
   - scope:
       path: ""
-      type: news
+      type: posts
     values:
       layout: single
       author_profile: true
