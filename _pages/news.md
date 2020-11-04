@@ -11,3 +11,4 @@ author_profile: true
 
 * Abstract "Comparison of 2D and 3D U-Net breast lesion segmentations on DCE-MRI" accepted to the SPIE Medical Imaging conference and proceeding paper will come out soon.
 
+* Abstract "Comparative Radiomics Evaluation of Paired Conventional DCE-MRI and Abbreviated MRI for Breast Cancer Diagnosis" accepted to the RSNA Annual Meeting and will be presented virtually after Thanksgiving this year!
