@@ -14,4 +14,4 @@ Besides my thesis research, I have worked on a wide range of interesting course 
 
 Prior to graduate school, I graduated with honors from Carleton College, where I double majored in Physics and Mathematics. I had a wide range of undergraduate research experiences, including human and model observer studies for lung cancer screening computed tomography at Mayo Clinic, low-dimensional electronic devices at MIT, optical photopolymer at Carleton, and noise analysis for the Laser Interferometer Gravitational-Wave Observatory (LIGO) at Carleton.
 
-In addition to science and technology, I love traveling the world to experience different cultures, going hiking to embrace nature, cooking with family and friends, and reading up on art history. I also invest my time in advocating for, mentoring, and creating communities for women in science and technology.
+In addition to my work, I love traveling the world to experience different cultures, going hiking to embrace nature, cooking with family and friends, and reading up on art history. I also invest my time in advocating for, mentoring, and creating communities for women in science and technology.
