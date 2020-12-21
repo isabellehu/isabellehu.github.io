@@ -5,10 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
-* Abstract “Predicting the Need for Intensive Care for COVID-19 Patients using Deep Learning on Chest Radiography” accepted to the Medical Imaging meets NeurIPS workshop and will be presented virtually in December!
+* I have been accepted to the University of Chicago Center for Data and Computing (CDAC) Rising Stars in Data Science Workshop (January 11th-12th) as a Spotlight Speaker. Humbled to be among the inaugural cohort of Data Science Rising Stars!
 
-* Abstract “Role of standard and soft tissue chest radiography images in COVID-19 diagnosis using deep learning” accepted to the SPIE Medical Imaging conference! Oral presentation in February and proceeding paper available soon after.
+* My abstract “Role of standard and soft tissue chest radiography images in COVID-19 diagnosis using deep learning” has been accepted to the SPIE Medical Imaging conference! Oral presentation in February and proceeding paper available soon after.
 
-* Abstract "Comparison of 2D and 3D U-Net breast lesion segmentations on DCE-MRI" accepted to the SPIE Medical Imaging conference and proceeding paper will come out soon.
-
-* Abstract "Comparative Radiomics Evaluation of Paired Conventional DCE-MRI and Abbreviated MRI for Breast Cancer Diagnosis" accepted to the RSNA Annual Meeting and will be presented virtually after Thanksgiving this year!
+* Abstract "Comparison of 2D and 3D U-Net breast lesion segmentations on DCE-MRI" that I co-authored has been accepted to the SPIE Medical Imaging conference! Oral presentation and proceeding paper will come out soon.
