@@ -18,7 +18,7 @@ author_profile: true
 Peer-reviewed journals
 ------
 <ol>
-<li><strong>Hu Q</strong>, Whitney HM, Giger ML. “A deep learning methodology for improved breast cancer diagnosis using multiparametric MRI.” <em>Scientific Reports</em> 10.1 (2020): 1-11. <a href="https://rdcu.be/b5iBe">Link</a> [In the news](https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fsec%3dsup%26sub%3dwom%26pag%3ddis%26ItemID%3d129465%26wf%3d10096)</li>
+<li><strong>Hu Q</strong>, Whitney HM, Giger ML. “A deep learning methodology for improved breast cancer diagnosis using multiparametric MRI.” <em>Scientific Reports</em> 10.1 (2020): 1-11. <a href="https://rdcu.be/b5iBe">Link</a> <a href="https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fsec%3dsup%26sub%3dwom%26pag%3ddis%26ItemID%3d129465%26wf%3d10096">In the news</a></li>
 
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “Radiomics methodology for breast cancer diagnosis using multiparametric magnetic resonance imaging.” <em>Journal of Medical Imaging</em> 7.4 (2020): 044502. <a href="http://dx.doi.org/10.1117/1.JMI.7.4.044502">Link</a></li>
 
