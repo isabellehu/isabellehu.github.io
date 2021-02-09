@@ -9,4 +9,6 @@ author_profile: true
 
 * My abstract “Role of standard and soft tissue chest radiography images in COVID-19 diagnosis using deep learning” has been accepted to the SPIE Medical Imaging conference! Oral presentation in February and proceeding paper available soon after.
 
+* I was selected as the runner-up of the Robert F. Wagner All-Conference Best Student Paper award and the runner-up of the Computer-Aided Diagnosis Paper Award for the above-mentioned proceeding paper at the SPIE Medical Imaging 2021 conference!
+
 * Abstract "Comparison of 2D and 3D U-Net breast lesion segmentations on DCE-MRI" that I co-authored has been accepted to the SPIE Medical Imaging conference! Oral presentation and proceeding paper will come out soon.
