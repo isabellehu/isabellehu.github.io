@@ -18,7 +18,7 @@ author_profile: true
 Peer-reviewed journals
 ------
 <ol>
-<li><strong>Hu Q</strong>, Whitney HM, Li H, Yu J, Liu P, Giger ML. “Improved classification of benign and malignant breast lesions using deep feature maximum.” <em>Radiology: Artificial Intelligence.</em> (In press)
+<li><strong>Hu Q</strong>, Whitney HM, Li H, Yu J, Liu P, Giger ML. “Improved classification of benign and malignant breast lesions using deep feature maximum.” <em>Radiology: Artificial Intelligence.</em> (In press)</li>
 
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “A deep learning methodology for improved breast cancer diagnosis using multiparametric MRI.” <em>Scientific Reports</em> 10.1 (2020): 1-11. <a href="https://rdcu.be/b5iBe">Link;</a> <a href="https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fsec%3dsup%26sub%3dwom%26pag%3ddis%26ItemID%3d129465%26wf%3d10096">In the news</a></li>
 
