@@ -18,6 +18,8 @@ author_profile: true
 Peer-reviewed journals
 ------
 <ol>
+<li><strong>Hu Q</strong>, Whitney HM, Li H, Yu J, Liu P, Giger ML. “Improved classification of benign and malignant breast lesions using deep feature maximum.” <em>Radiology: Artificial Intelligence.</em> (In press)
+
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “A deep learning methodology for improved breast cancer diagnosis using multiparametric MRI.” <em>Scientific Reports</em> 10.1 (2020): 1-11. <a href="https://rdcu.be/b5iBe">Link;</a> <a href="https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fsec%3dsup%26sub%3dwom%26pag%3ddis%26ItemID%3d129465%26wf%3d10096">In the news</a></li>
 
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “Radiomics methodology for breast cancer diagnosis using multiparametric magnetic resonance imaging.” <em>Journal of Medical Imaging</em> 7.4 (2020): 044502. <a href="http://dx.doi.org/10.1117/1.JMI.7.4.044502">Link</a></li>
@@ -25,9 +27,15 @@ Peer-reviewed journals
 <li>Gong H, <strong>Hu Q</strong> , Walther A, Koo CW, Takahashi EA, Levin DL, Johnson TF, Hora MJ, Leng S, Fletcher JG, McCollough CH. “Deep-learning-based model observer for a lung nodule detection task in computed tomography.” <em>Journal of Medical Imaging</em> 7.4 (2020): 042807. <a href="http://dx.doi.org/10.1117/1.JMI.7.4.042807">Link</a></li>
 </ol>
 
-Proceeding papers
+Proceeding papers and extended Abstract
 ------
 <ol>
+<li><strong>Hu Q</strong>, Drukker K, Giger ML. “Role of standard and soft tissue chest radiography images in COVID-19 diagnosis using deep learning.” <em>Medical Imaging 2021: Computer-Aided Diagnosis.</em> Vol. 11579. International Society for Optics and Photonics, 2021. <a href="https://doi.org/10.1117/12.2581977">Link</a></li>
+
+<li>Bhattacharjee R, Douglas L, Drukker K, <strong>Hu Q</strong>, Fuhrman J, Sheth D, Giger ML. “Comparison of 2D and 3D U-Net breast lesion segmentations on DCE-MRI.” <em>Medical Imaging 2021: Computer-Aided Diagnosis.</em> Vol. 11579. International Society for Optics and Photonics, 2021. <a href="https://doi.org/10.1117/12.2581846">Link</a></li>
+
+<li><strong>Hu Q</strong>, Drukker K, Giger ML. “Predicting the Need for Intensive Care for COVID-19 Patients using Deep Learning on Chest Radiography.” <em>The 34th Neural Information Processing Systems Conference Medical Imaging meets NeurIPS Workshop.</em> <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cse.cuhk.edu.hk%2F~qdou%2Fpublic%2Fmedneurips2020%2F79_Med-NeurIPS2020_ExtendedAbstract_IsabelleHu_camera-ready.pdf&sa=D&sntz=1&usg=AFQjCNGQc05IcjlXioeDACoHKUSmCpKQhA">Link</a></li>
+
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “Using ResNet feature extraction in computer-aided diagnosis of breast cancer on 927 lesions imaged with multiparametric MRI.” <em>Medical Imaging 2020: Computer-Aided Diagnosis.</em> Vol. 11314. International Society for Optics and Photonics, 2020. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/1131411/Using-ResNet-feature-extraction-in-computer-aided-diagnosis-of-breast/10.1117/12.2548872.short">Link</a></li>
 
 <li><strong>Hu Q</strong>, Whitney HM, Giger ML. “Transfer Learning in 4D for Breast Cancer Diagnosis using Dynamic Contrast-Enhanced Magnetic Resonance Imaging.” <em>arXiv preprint arXiv:1911.03022</em> (2019). <a href="https://arxiv.org/abs/1911.03022">Link</a></li>
